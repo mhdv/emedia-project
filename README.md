@@ -1,1 +1,4 @@
-emedia-project
+Specjalność ART. Projekt e-media.
+Grupa:
+	Michał Filipowicz
+	Rafał Madeja
