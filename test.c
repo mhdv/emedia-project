@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+//asdqwetest
+
 int main(int argc, char *argv[]){
 	
 	int c;
