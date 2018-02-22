@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-//asdqwetest
-
 int main(int argc, char *argv[]){
 	
 	int c;
@@ -25,11 +23,11 @@ int main(int argc, char *argv[]){
 				printf("Error");
 				return 0;
 			}
-			if(file){
+			/*if(file){
 				while((c = getc(file)) != EOF){
 					putchar(c);
 				}
-			}
+				}*/
 
 			return 0;
 	}
